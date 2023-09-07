@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently studying [Mastering STM32](https://www.carminenoviello.com/mastering-stm32/). 📟
 
 <!--
 **achillelamb/achillelamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
