@@ -14,3 +14,7 @@
 🔗 Let's connect, learn, and build together! Feel free to reach out for collaborations, discussions, or just a friendly chat about Rust, blockchain, Linux, or embedded systems. 🌟  
 
 📬 `achille.lambrughi98@gmail.com`
+
+> :octocat: Contributions:
+> - [rlp iterator](https://github.com/paritytech/parity-common/issues/761)
+> - [transaction decoding](https://github.com/gakonst/ethers-rs/issues/1849)
