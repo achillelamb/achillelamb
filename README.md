@@ -17,4 +17,4 @@
 
 > :octocat: Contributions:
 > - [rlp iterator](https://github.com/paritytech/parity-common/issues/761)
-> - [transaction decoding](https://github.com/gakonst/ethers-rs/issues/1849)
+> - [transaction decoding](https://github.com/gakonst/ethers-rs/pull/2303)
