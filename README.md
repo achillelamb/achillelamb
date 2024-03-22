@@ -1,17 +1,41 @@
 ### Hi there 👋
 
+```
+user@github:~$ man achille
 
-👋 I'm Achille, a passionate developer with a deep love for Rust, GNU/Linux, and blockchain technology.
+ACHILLE(1)                        User Commands                       
 
-🚀 My journey in the world of software engineering has led me to explore and conquer the challenges of building an EVM-based full node, a project I'm proud of.
+NAME
+       achille - young professional proficient in software engineering, specializing in system-level programming languages.
 
-💡 Alongside my work with Ethereum, I'm confident in my skills with the Solana blockchain, harnessing the power of both worlds to build decentralized applications that matter.
+SYNOPSIS
+       achille [OPTIONS]
 
-🌐 With a keen eye for performance optimization and a strong dedication to open-source principles, I'm constantly pushing the boundaries of what's possible in Rust, a language I deeply appreciate.
+DESCRIPTION
+       achille is a young professional with a background in Computer Science, holding a Master of Science degree from the University of Insubria.
+       Versatile background in software roles, emphasizing blockchain. Recently entered the telecommunications domain to broaden expertise.
 
-📚 I am delving deeper into the C language and Embedded software engineering, which is why I am currently studying [Mastering STM32](https://www.carminenoviello.com/mastering-stm32/). 📟
+OPTIONS
+       --expertise:
+              Adept in software development, with a strong emphasis on blockchain technology.
+              Proficient in designing, developing, and maintaining distributed ledger systems.
 
-🔗 Let's connect, learn, and build together! Feel free to reach out for collaborations, discussions, or just a friendly chat about Rust, blockchain, Linux, or embedded systems. 🌟  
+       --transition:
+              Transitioned from blockchain to telecommunications, aiming to demonstrate versatility and adaptability along the way.
+
+       --education:
+              Holds a Master of Science degree in Computer Science, providing a solid academic foundation.
+
+       --skills:
+              * Programming Languages: Proficient in multiple languages, including but not limited to: Rust, C, Python.
+              * Blockchain: Experience in the design and development of an EVM-based full node.
+
+AUTHOR
+       achille is authored by Achille Lambrughi.
+
+COPYRIGHT
+       Copyright © 1998 Achille Lambrughi. All rights reserved.
+```
 
 📬 `achille.lambrughi98@gmail.com`
 
