@@ -42,3 +42,4 @@ COPYRIGHT
 > :octocat: Contributions:
 > - [rlp iterator](https://github.com/paritytech/parity-common/issues/761)
 > - [transaction decoding](https://github.com/gakonst/ethers-rs/pull/2303)
+> - [ppp server:LCP echo reply](https://github.com/accel-ppp/accel-ppp/issues/204)
