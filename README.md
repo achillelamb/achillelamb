@@ -1,40 +1,36 @@
-### Hi there 👋
-
 ```
 user@github:~$ man achille
 
-ACHILLE(1)                        User Commands                       
+ACHILLE(1) User Commands 
 
 NAME
-       achille - young professional proficient in software engineering, specializing in system-level programming languages.
+ achille - a software engineer with a growing proficiency in system development, networking, and blockchain technologies.
 
 SYNOPSIS
-       achille [OPTIONS]
+ achille [OPTIONS]
 
 DESCRIPTION
-       achille is a young professional with a background in Computer Science, holding a Master of Science degree from the University of Insubria.
-       Versatile background in software roles, emphasizing blockchain. Recently entered the telecommunications domain to broaden expertise.
+ Achille is a dedicated software engineer with a genuine passion for technology and problem-solving, it has experience in developing and maintaining systems across both blockchain and telecommunications domains. Eager to continue learning and contributing to innovative projects.
 
 OPTIONS
-       --expertise:
-              Adept in software development, with a strong emphasis on blockchain technology.
-              Proficient in designing, developing, and maintaining distributed ledger systems.
+ --expertise:
+ Focused on system development, with experience in network infrastructure, test pipelines, and troubleshooting.
+ Contributed to blockchain projects, including the development of a full node for an EVM-based blockchain and cross-chain asset transfers.
 
-       --transition:
-              Transitioned from blockchain to telecommunications, aiming to demonstrate versatility and adaptability along the way.
+ --transition:
+ Shifted focus from blockchain to telecommunications, seeking to apply and expand his skill set in a new domain.
 
-       --education:
-              Holds a Master of Science degree in Computer Science, providing a solid academic foundation.
+ --education:
+ Holds a Master of Science degree in Computer Science, with a thesis on detecting and analyzing front-running in the Ethereum blockchain.
 
-       --skills:
-              * Programming Languages: Proficient in multiple languages, including but not limited to: Rust, C, Python.
-              * Blockchain: Experience in the design and development of an EVM-based full node.
-
-AUTHOR
-       achille is authored by Achille Lambrughi.
+ --skills:
+ * Programming Languages: Comfortable working in Rust, C, Python, shell, and more.
+ * Technologies: Familiar with Docker, Linux, Git, DPDK, Open vSwitch.
+ * Blockchain: Experience building a full node and working on cross-chain solutions.
 
 COPYRIGHT
-       Copyright © 1998 Achille Lambrughi. All rights reserved.
+ Copyright © 1998 Achille Lambrughi. All rights reserved.
+
 ```
 
 📬 `achille.lambrughi98@gmail.com`
